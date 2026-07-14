@@ -1,0 +1,16 @@
+# Vivado temporary files
+*.log
+*.jou
+*.str
+.Xil/
+
+# Simulation and compilation artifacts
+*.sim/
+*.ip_user_files/
+*.hw/
+*.runs/
+*.cache/
+
+# OS specific
+.DS_Store
+Thumbs.db
